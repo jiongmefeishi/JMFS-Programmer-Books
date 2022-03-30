@@ -18,17 +18,54 @@
 
 【囧么肥事图书馆】收拢程序员晋升必备读本，致力整合网络免费计算机相关书包括 C、C++、Java、PHP、Python、爬虫、数据结构与算法、数据库、软件架构、机器学习、深度学习、人工智能、设计模式、计算机网络、计算机操作系统、云原生、前端、安卓等。【囧么肥事图书馆】从2022年3月17日开始，寻找网络分享的图书资源，整合到本开源免费项目，目标1年内完成每种分类补充至少一本。
 
-【囧么肥事图书馆】地址：https://gitee.com/jiongmefeishi/JMFS-Programmer-Books
+【囧么肥事图书馆】Gitee开源地址：https://gitee.com/jiongmefeishi/JMFS-Programmer-Books
+
+【囧么肥事图书馆】GitHub开源地址：https://github.com/jiongmefeishi/JMFS-Programmer-Books
 
 
 
-**云原生相关PDF书籍**
+#### **云原生相关PDF书籍**
 
 - 《Kubernetes权威指南》[网盘链](https://pan.baidu.com/s/11huLHJkCeIPZqSyLEoUEmQ)  提取码:sa88
 
-**数据库相关PDF书籍**
+#### **数据库相关PDF书籍**
 
 - 《MySQL技术内幕 InnoDB存储引擎 第2版》[网盘链](https://pan.baidu.com/s/1vL5tgQP_IJ38yBqwGjYQJA)   提取码:891t
 - 《高性能MySQL（第3版）》[网盘链](https://pan.baidu.com/s/1vL5tgQP_IJ38yBqwGjYQJA)   提取码:3u63
 - 《MySQL必知必会》[网盘链](https://pan.baidu.com/s/1vL5tgQP_IJ38yBqwGjYQJA)   提取码:6iwt
 - 《深入浅出MySQL++数据库开发、优化与管理维护+第2版+唐汉明》[网盘链](https://pan.baidu.com/s/1vL5tgQP_IJ38yBqwGjYQJA)   提取码:8c9z
+- 《MongoDB权威指南》[网盘链](https://pan.baidu.com/s/1QB55ij0AP5RabcMOrXC6bQ)  提取码:jmfs
+- 《Nosql数据库入门》[网盘链](https://pan.baidu.com/s/1QB55ij0AP5RabcMOrXC6bQ)提取码:jmfs
+- 《Redis设计与实现》[网盘链](https://pan.baidu.com/s/1uSzUqR32E-mtGCq02gmKlw)提取码:jmfs
+
+#### 数据结构与算法相关PDF书籍
+
+- 《Java数据结构和算法.（第二版）》[网盘链](https://pan.baidu.com/s/18GEHa41tLSr7KXQz5KqIRw)  提取码:4mm1
+
+- 《算法图解》[网盘链](https://pan.baidu.com/s/1hUI8y_4a8n33XamieMGSVw)   提取码:9477
+
+- 《算法导论中文版》[网盘链](https://pan.baidu.com/s/1T3WArL7MDS0cKu5uHkZdGw)  提取码:g8o6
+
+- 《剑指OFFER  名企面试官精讲典型编程题  第2版》[网盘链](https://pan.baidu.com/s/11FZsIP6R3Gb2_VKkzwQCOQ)  提取码:ak5c
+
+
+#### 设计模式相关PDF书籍
+
+- 《大话设计模式》[网盘链](https://pan.baidu.com/s/1FNhycqHeTu7XuD5FOBW_xg)   提取码:d1kb
+- 《C++版常见设计模式解析与实现》[网盘链](https://pan.baidu.com/s/1QB55ij0AP5RabcMOrXC6bQ)   提取码:jmfs
+
+
+#### 面试相关PDF书籍
+
+- 《程序员面试金典》[网盘链](https://pan.baidu.com/s/1sOE1hV23TjdR-iQx4iJcJg)  提取码:m46g
+
+
+
+
+
+
+
+
+
+
+
