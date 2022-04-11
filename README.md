@@ -22,6 +22,25 @@
 
 【囧么肥事图书馆】GitHub开源地址：https://github.com/jiongmefeishi/JMFS-Programmer-Books
 
+-----
+
+### 大数据相关PDF书籍
+
+- 《Apache Kafka实战》[网盘链](https://pan.baidu.com/s/1nwRfK6QJYXuqXmr9l8fuLA)  提取码：jmfs
+
+- 《Apache Kafka源码剖析》[网盘链](https://pan.baidu.com/s/1v8lPt_bit0x0crMGGK3rEA)  提取码：jmfs
+
+- 《Apache Spark源码剖析》[网盘链](https://pan.baidu.com/s/1vnr7AFvGxp083XEAXUZiwQ)  提取码：jmfs
+
+- 《Apache+Kylin权威指南》[网盘链](https://pan.baidu.com/s/1ZrViOikp_b8dFKmtrPoDVQ)  提取码：jmfs
+
+- 《ClickHouse中文文档》[网盘链](https://pan.baidu.com/s/1713G6uIFfSG5aRVoNDoxGA)  提取码：jmfs
+
+- 《Elasticsearch.权威指南（中文版）》[网盘链](https://pan.baidu.com/s/1Up0Xgg7-ERuJjTrEkxr03A)  提取码：jmfs
+
+- 《Elasticsearch集成Hadoop最佳实践》[网盘链](https://pan.baidu.com/s/1y3YwAzAs_Bjh7rpouJiDQg)  提取码：jmfs
+
+- 《Flink基础教程》[网盘链](https://pan.baidu.com/s/1mbHJLnQfe_8Yd-9MnT0qKg)  提取码：jmfs
 
 
 #### **云原生相关PDF书籍**
